@@ -4,7 +4,7 @@
                      </p>
 
 
-<p align="center"> <h1> Practica 18</h1></p>
+<p align="center"> <h1> Pràctica 18</h1></p>
 
 ## Nombre de la Practica 🚀
 
